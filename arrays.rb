@@ -24,3 +24,7 @@ facts.shift
 decimals.unshift(0.01)
 
 # Index positions represent the location of the element within the array.  The index position always starts with 0.  For example, in the (modified) array colors, the "string" integer is in index position 0, and the "string" integer red is in index position 2.
+
+#.insert will incluse an element in any index position you define
+colors.insert(1,"gray")
+
