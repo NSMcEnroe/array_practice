@@ -11,4 +11,16 @@ tired = false
 
 facts = [daytime,nighttime,hungry,tired]
 
+# .pop removes the last element of the array
+colors.pop
+
+#.push adds an element at the end of the array
+numbers.push(5)
+
+#.shift removes the first element of the array
+facts.shift
+
+#.unshift adds and element at the front of an array
+decimals.unshift(0.01)
+
 
