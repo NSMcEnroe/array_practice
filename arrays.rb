@@ -23,4 +23,4 @@ facts.shift
 #.unshift adds and element at the front of an array
 decimals.unshift(0.01)
 
-
+# Index positions represent the location of the element within the array.  The index position always starts with 0.  For example, in the (modified) array colors, the "string" integer is in index position 0, and the "string" integer red is in index position 2.
